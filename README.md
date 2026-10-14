@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Jagadish 👋 — AI Engineer & Data Analyst
+# Hi, I'm Jagadish  — AI Engineer & Data Analyst
 
 ### I turn live, messy data into systems that decide, explain, and report.
 
