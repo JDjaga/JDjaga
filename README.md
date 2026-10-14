@@ -10,7 +10,7 @@
 ![Docker](https://img.shields.io/badge/Docker-verified-2496ED?logo=docker&logoColor=white)
 ![Open to work](https://img.shields.io/badge/Open_to-AI_Engineer_%7C_Data_Analyst-green)
 
-📍 India · ✉️ [your-email@example.com](mailto:your-email@example.com) · 💼 [LinkedIn](https://www.linkedin.com/) — replace these three with your real links
+📍 India · ✉️ [jagadiish21@gmail.com](mailto:jagadiish21@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/jagadiish-s-d-427273257/)
 
 </div>
 
